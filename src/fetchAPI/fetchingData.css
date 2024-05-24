@@ -1,0 +1,15 @@
+.fetch-api {
+    display: row;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.ui_dummy-data {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.api-dummy_data {
+    margin-top: 5px;
+    margin-left: 10px;
+}

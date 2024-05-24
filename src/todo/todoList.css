@@ -1,0 +1,21 @@
+.todo-list {
+    display: horizontal;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.todo-item {
+    margin-top: -3px;
+    margin-bottom: 4px;
+    padding: 4px;
+}
+
+.list-container {
+    margin-top: 8px;
+    text-align: left;
+    display: flex;
+    border: 1px solid gray;
+    width: 220px;
+    height: 24px;
+    justify-content: space-between;
+}

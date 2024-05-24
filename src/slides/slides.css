@@ -1,0 +1,7 @@
+.slides-page {
+    align-items: center;
+    justify-content: row;
+    display: inline-block;
+    margin-bottom: 25px;
+    margin-left: 15px;
+}
